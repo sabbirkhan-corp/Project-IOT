@@ -18,7 +18,7 @@
         
 ## Exploreable projects::
         
-        *site::         https://www.skyfilabs.com/blog/best-internet-of-things-iot-final-year-project-ideas-for-engineering-students
+                        https://www.skyfilabs.com/blog/best-internet-of-things-iot-final-year-project-ideas-for-engineering-students
         
         
         
@@ -38,19 +38,16 @@
 
 ## Taking Inspiration::
        
-       ### RAW:
-        
-        *site::         https://www.safety.com/best-wearables/
-        *site::         https://ieeexplore.ieee.org/document/8321896
+### RAW:
+                        https://www.safety.com/best-wearables/
+                        
+                        https://ieeexplore.ieee.org/document/8321896
       
+### Advance
+                        https://www.safety.com/best-home-automation-products/
       
-        ### Advance
-        
-        *site::         https://www.safety.com/best-home-automation-products/
-      
-        ### extras-non-mandatory
-        
-        *site::         https://hqsoftwarelab.com/about-us/blog/use-cases-iot-solutions-for-modern-production-problems 
+### extras-non-mandatory
+                        https://hqsoftwarelab.com/about-us/blog/use-cases-iot-solutions-for-modern-production-problems 
 
 
 - Doc
