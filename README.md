@@ -39,13 +39,17 @@
 ## Taking Inspiration::
        
        ### RAW:
+        
         *site::         https://www.safety.com/best-wearables/
         *site::         https://ieeexplore.ieee.org/document/8321896
-        
+      
+      
         ### Advance
-        *site::         https://www.safety.com/best-home-automation-products/
         
+        *site::         https://www.safety.com/best-home-automation-products/
+      
         ### extras-non-mandatory
+        
         *site::         https://hqsoftwarelab.com/about-us/blog/use-cases-iot-solutions-for-modern-production-problems 
 
 
