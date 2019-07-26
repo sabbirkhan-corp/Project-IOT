@@ -3,6 +3,8 @@
 ## IOT BASICS
         
    [actual site:: click here](https://www.kidscodecs.com/what-is-internet-of-things)[newtab]
+   
+   (<a href="https://www.kidscodecs.com/what-is-internet-of-things" target="_blank">my link</a>
         
         
         
