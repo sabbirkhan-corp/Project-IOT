@@ -2,7 +2,7 @@
 
 ## IOT BASICS
         
-       [site](https://www.kidscodecs.com/what-is-internet-of-things)
+   [site](https://www.kidscodecs.com/what-is-internet-of-things)
         
         
         
@@ -43,10 +43,10 @@
                         
                         https://ieeexplore.ieee.org/document/8321896
       
-### Advance
+#### Advance
                         https://www.safety.com/best-home-automation-products/
       
-### extras-non-mandatory
+#### Extras-non-mandatory
                         https://hqsoftwarelab.com/about-us/blog/use-cases-iot-solutions-for-modern-production-problems 
 
 
