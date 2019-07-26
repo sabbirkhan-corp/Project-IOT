@@ -2,7 +2,7 @@
 
 ## IOT BASICS
         
-       [site] (https://www.kidscodecs.com/what-is-internet-of-things/)
+       [site](https://www.kidscodecs.com/what-is-internet-of-things/)
         
         
         
